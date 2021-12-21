@@ -1,0 +1,7 @@
+G:\tasks\Algorithms\Binary Search\Binary Search\bin\Debug\Binary Search.exe.config
+G:\tasks\Algorithms\Binary Search\Binary Search\bin\Debug\Binary Search.exe
+G:\tasks\Algorithms\Binary Search\Binary Search\bin\Debug\Binary Search.pdb
+G:\tasks\Algorithms\Binary Search\Binary Search\obj\Debug\Binary Search.csprojAssemblyReference.cache
+G:\tasks\Algorithms\Binary Search\Binary Search\obj\Debug\Binary Search.csproj.CoreCompileInputs.cache
+G:\tasks\Algorithms\Binary Search\Binary Search\obj\Debug\Binary Search.exe
+G:\tasks\Algorithms\Binary Search\Binary Search\obj\Debug\Binary Search.pdb
